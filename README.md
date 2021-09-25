@@ -1,6 +1,8 @@
 # hide-data-in-jpeg
 Hide data in jpeg + read hidden data easily with python3
 
+### NOTE: This works only with `.jpeg` images
+
 # Usage
 ```
 from imghide import JPEG

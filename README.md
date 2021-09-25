@@ -16,5 +16,5 @@ print(write_status)
 secret = JPEG.read(file_name="image.jpeg")
 print(secret)
 ```
-
+Make sure you have copied this `imghide` folder inside your project folder!
 
